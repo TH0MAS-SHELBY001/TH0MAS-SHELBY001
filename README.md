@@ -1,24 +1,41 @@
-<h1 align="center">Hi 👋, I'm THOMAS SHELBY</h1>
+<!-- Typing SVG Banner -->
+<p align="center">
+  <a href="https://github.com/THOMAS-SHELBY001">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F700&center=true&vCenter=true&width=800&lines=🚀+Innovating+the+Future;💻+Building+Scalable+Tech;🌐+Open+for+Opportunities;⚡+AI+%7C+Automation+%7C+Cloud+%7C+Business" />
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm THOMAS SHELBY</h1>
 <h3 align="center">💻 Developer | 🚀 Innovator | 🌐 Tech Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on **AI, Automation & Cloud Projects**  
-- 🌱 Expanding knowledge in **Machine Learning & Business Applications**  
-- 💼 Open to **collaborations, freelance projects & partnerships**  
-- 📩 Reach me: **your-email@example.com**  
-- ⚡ Fun fact: *I turn coffee into scalable solutions ☕ → 💡*  
+- 🔭 Currently building **AI, Automation & Cloud-based projects**  
+- 🌱 Learning **Machine Learning, Business Applications & Cybersecurity**  
+- 💼 Available for **freelance, business projects & collaborations**  
+- 📩 Email: **businessdroppers45@gmail.com**  
+- ⚡ Fun fact: *I believe every line of code brings us closer to the future*  
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="center">
-<a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white" /></a>
-<a href="https://instagram.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/users/thomas_shelby010" target="_blank"><img src="https://img.shields.io/badge/Discord%20(Thomas_Shelby010)-5865F2?logo=discord&logoColor=white" /></a>  
+<a href="https://discord.com/users/maverick_kane303" target="_blank"><img src="https://img.shields.io/badge/Discord%20(Maverick_Kane303)-5865F2?logo=discord&logoColor=white" /></a>  
+<a href="https://t.me/Thcm7s_sh3lby" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>  
+<a href="https://facebook.com/Th0mas.Shelby001" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>  
+<a href="https://instagram.com/th0mas_shelby001" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>  
+<a href="https://twitter.com/Thomas_S010" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white" /></a>  
+<a href="https://tiktok.com/@th0mas_shelby001" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" /></a>  
+<a href="https://wa.me/8801825629036" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>  
+<a href="mailto:businessdroppers45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>  
 </p>
+
+---
+
+### 📍 Address  
+📌 **38, Dilkusha B/A, Dhaka-1000, Bangladesh**
 
 ---
 
@@ -37,10 +54,9 @@
 
 ---
 
-### 🏆 Achievements & Highlights  
-- 🌟 GitHub **Profile Trophy Wall**  
+### 🏆 Achievements  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=THOMAS-SHELBY001&theme=darkhub&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=THOMAS-SHELBY001&theme=matrix&no-frame=true&row=1&column=7" />
 </p>
 
 ---
