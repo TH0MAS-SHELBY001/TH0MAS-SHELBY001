@@ -1,45 +1,51 @@
-# 👋 Hi, I’m THOMAS SHELBY
-
-![Profile views](https://komarev.com/ghpvc/?username=THOMAS-SHELBY001&color=blue&style=flat)
-
----
-
-## 🌐 Connect with me  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/your-link)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/your-username)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/your-username)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-username)  
+<h1 align="center">Hi 👋, I'm THOMAS SHELBY</h1>
+<h3 align="center">💻 Developer | 🚀 Innovator | 🌐 Tech Enthusiast</h3>
 
 ---
 
-## 💻 Tech Stack  
-![Python](https://skillicons.dev/icons?i=python)  
-![C++](https://skillicons.dev/icons?i=cpp)  
-![Java](https://skillicons.dev/icons?i=java)  
-![JS](https://skillicons.dev/icons?i=js)  
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![React](https://skillicons.dev/icons?i=react)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Git](https://skillicons.dev/icons?i=git)  
-![Linux](https://skillicons.dev/icons?i=linux)  
+### 👨‍💻 About Me  
+- 🔭 Currently working on **AI, Automation & Cloud Projects**  
+- 🌱 Expanding knowledge in **Machine Learning & Business Applications**  
+- 💼 Open to **collaborations, freelance projects & partnerships**  
+- 📩 Reach me: **your-email@example.com**  
+- ⚡ Fun fact: *I turn coffee into scalable solutions ☕ → 💡*  
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=THOMAS-SHELBY001&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=THOMAS-SHELBY001&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=THOMAS-SHELBY001&layout=compact&theme=radical)  
+### 🌐 Connect With Me  
+<p align="center">
+<a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=THOMAS-SHELBY001&theme=onedark&no-frame=true&row=1&column=7)  
+### 🛠️ Tech Stack  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,express,mongodb,html,css,tailwind,figma,git,linux,aws,docker,kubernetes" />
+</p>
 
 ---
 
-## ⚡ Fun Facts  
-- 🔥 I love **coding & gaming**  
-- 🌱 Currently learning **AI & Cloud**  
-- 🎯 Goal: Become a **Top Open-Source Contributor**  
-- 💡 Quote: *"Code is like humor. When you have to explain it, it’s bad."*  
+### 📊 GitHub Analytics  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=THOMAS-SHELBY001&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=THOMAS-SHELBY001&theme=tokyonight&hide_border=true" height="170px"/>
+</p>
+
+---
+
+### 🏆 Achievements & Highlights  
+- 🌟 GitHub **Profile Trophy Wall**  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=THOMAS-SHELBY001&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 Visitor Counter  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=THOMAS-SHELBY001&color=blue&style=flat-square" />
+</p>
