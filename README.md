@@ -35,7 +35,12 @@
 ---
 
 ## 📍 Address  
-📌 **38, Dilkusha B/A, Dhaka-1000, Bangladesh.** 🏢  
+
+📌 Headquarters:
+**West World Shopping City, Jallarpar Road, Zindabazar, Sylhet-3100, Bangladesh.** 🏢
+
+📌 Dhaka Office:
+**38, Dilkusha B/A, Dhaka-1000, Bangladesh.** 🏢
 
 ---
 
