@@ -23,12 +23,9 @@
 <p align="center">
 <a href="https://discord.com/users/thomas_shelby010"><img src="https://img.shields.io/badge/Discord-(Thomas_Shelby010)-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
 <a href="https://discord.com/users/maverick_kane303"><img src="https://img.shields.io/badge/Discord-(Maverick_Kane303)-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
-<a href="https://t.me/Thcm7s_sh3lby"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" /></a>
 <a href="https://facebook.com/Th0mas.Shelby001"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
-<a href="https://instagram.com/th0mas_shelby001"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-<a href="https://twitter.com/Thomas_S010"><img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
 <a href="https://tiktok.com/@th0mas_shelby001"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" /></a>
-<a href="https://wa.me/8801825629036"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" /></a>
+<a href="https://wa.me/+1 (667) 519-8577"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" /></a>
 <a href="mailto:businessdroppers45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
@@ -37,10 +34,10 @@
 ## 📍 Address  
 
 📌 Headquarters:
-**West World Shopping City, Jallarpar Road, Zindabazar, Sylhet-3100, Bangladesh.** 🏢
+**Linking Road, Bandra West, Mumbai, Maharashtra 400050, India** 🏢
 
-📌 Dhaka Office:
-**38, Dilkusha B/A, Dhaka-1000, Bangladesh.** 🏢
+📌 Branch Office:
+**Kadıköy, Istanbul, Turkey 34710, Türkiye 📍** 🏢
 
 ---
 
