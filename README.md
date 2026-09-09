@@ -34,7 +34,7 @@
 ## 📍 Address  
 
 📌 Headquarters:
-**Linking Road, Bandra West, Mumbai, Maharashtra 400050, India** 🏢
+**350 Fifth Avenue, New York, NY 10118, USA** 🏢
 
 📌 Branch Office:
 **Kadıköy, Istanbul, Turkey 34710, Türkiye 📍** 🏢
